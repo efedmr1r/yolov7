@@ -1,0 +1,4 @@
+To use v7 tiny models with opencv dnn:
+
+1. reparametrize the model with reparameterization.ipynb
+2. export the model using export.py in u5 branch
